@@ -1,17 +1,14 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/guilherme-barbosa-dev/"><i>Guilherme Barbosa</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na empresa <a href="https://www.brq.com"><i>BRQ</i></a> e compartilho meu aprendizado aqui no meu GitHub
-  <br>
-  <p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-</div>
-<div align="center">
-  <a href="https://github.com/GuiBFG">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuiBFG&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBFG&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+## 💜 Olá, meu nome é <strong>Guilherme!</strong>
 
-<div align="center" valign="top"><br>
+> Tenho 18 anos, moro no Rio de Janeiro, atualmente estou cursando Ánalise e Desenvolvimento de Sistemas na UniCesumar enquanto trabalho como Desenvolvedor Web Jr na empresa BRQ.
+
+💬 Me chame caso queira trocar algumas dicas.
+
+----
+
+## 🚀 Minhas Skills
+
+<div valign="top">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,21 +16,21 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://github.com/GuiBFG/GuiBFG/blob/main/GitHub.png">
-</div><br>
+</div>
 
-<div align="center">
+---
+
+## ⭐ Informações sobre minha conta GitHub
+
+  <a href="https://github.com/GuiBFG">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuiBFG&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBFG&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+
+---
+
+## ☺ Redes Sociais
+
   <a href="https://www.instagram.com/holy_gui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guilhermebfg417@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Zelkyy/Zelkyy/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
