@@ -1,10 +1,10 @@
 ## 💙 Hello, my name is <strong>Guilherme!</strong>
 
-> I'm 18 years old, I live in Rio de Janeiro-Brazil, I'm currently studying Systems Analysis and Development at UniCesumar while I work as a Jr Web Developer at BRQ.
+> I'm 18 years old, I live in Rio de Janeiro/Brazil, I'm currently studying Systems Analysis and Development at UniCesumar while I work as a Jr Web Developer at BRQ.
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <div valign="top">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +20,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 
   <a href="https://github.com/GuiBFG">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuiBFG&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
@@ -29,7 +29,7 @@
 
 ---
 
-## ☺ Redes Sociais
+## ☺ Social media
 
   <a href="https://www.instagram.com/holy_gui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
