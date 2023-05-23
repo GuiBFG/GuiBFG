@@ -1,6 +1,6 @@
-## 💙 Olá, meu nome é <strong>Guilherme!</strong>
+## 💙 Hello, my name is <strong>Guilherme!</strong>
 
-> Tenho 18 anos, moro no Rio de Janeiro, atualmente estou cursando Ánalise e Desenvolvimento de Sistemas na UniCesumar enquanto trabalho como Desenvolvedor Web Jr na empresa BRQ.
+> I'm 18 years old, I live in Rio de Janeiro-Brazil, I'm currently studying Systems Analysis and Development at UniCesumar while I work as a Jr Web Developer at BRQ.
 
 ----
 
